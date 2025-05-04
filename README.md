@@ -1,16 +1,18 @@
-# todo_app
+# To Do App
 
-A new Flutter project.
+A simple task management app built with **Flutter**, using **MVVM architecture** and **SQLite** for local data storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, update, delete tasks
+- Mark tasks as completed
+- Persistent local storage (Sqflite)
+- MVVM structure
+- Clean and modular code
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter & Dart
+- Sqflite
+- Provider (State Management)
+- MVVM Pattern
